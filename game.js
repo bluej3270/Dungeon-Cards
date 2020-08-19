@@ -70,6 +70,7 @@ function create ()
         Phaser.Keyboard.RIGHT,
         Phaser.Keyboard.UP,
         Phaser.Keyboard.DOWN,
+    ])
 }
 
 function update () 
